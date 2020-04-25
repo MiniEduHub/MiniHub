@@ -5,7 +5,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="backgroundBlue" >
-            <h1 className="title">Mini Edu</h1>
+            <h1 className="title1">Mini<span className="title2">Edu</span></h1>
             <div className="searchBarHeader">
                 <SearchBar />
             </div>
