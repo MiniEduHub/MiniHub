@@ -3,10 +3,10 @@
     display: inline-block;
 }
 
-.HomePage{
+.homePage{
     text-align: center;
 }
 
 h2{
-    text-align: left;
+    text-align: start;
 }

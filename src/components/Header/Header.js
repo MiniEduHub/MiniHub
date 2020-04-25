@@ -1,11 +1,11 @@
 import React from 'react'
-import SearchBar from '../searchBar/searchBar'
+import SearchBar from '../SearchBar/SearchBar'
 import './Header.css'
 
 const Header = () => {
     return (
         <div className="backgroundBlue" >
-            <div className="MiniEduicon"></div>
+            <div className="miniEduIcon"></div>
             <div className="searchBarHeader">
                 <SearchBar />
             </div>
@@ -14,3 +14,4 @@ const Header = () => {
 }
 
 export default Header
+
