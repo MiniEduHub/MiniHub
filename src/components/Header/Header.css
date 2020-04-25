@@ -1,0 +1,18 @@
+.backgroundBlue{
+    width: 100vw;
+    height: 25vh;
+    background-image: linear-gradient(90deg,#3654d5,#0076ed);
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-end;
+}
+
+.searchBarHeader{
+    margin: 0 80px 30px 0;
+}
+
+.MiniEduicon{
+    content: url("../../assets/MiniEduIcon.jpeg");
+    width: 400px;
+    margin-left: 30px;
+}
